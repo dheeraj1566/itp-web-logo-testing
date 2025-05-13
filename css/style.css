@@ -137,7 +137,7 @@
 
 @media (min-width: 992px) {
     .navbar-light {
-        position: absolute;
+        /* position: absolute; */
         width: 100%;
         top: 0;
         left: 0;
@@ -161,9 +161,6 @@
         background: blue;
         transition: .5s;
     }
-    .navbar-light .navbar-nav .nav-link.active::after {
-    /* color: var(--primary) !important; */
-}
 
     .navbar-light .navbar-nav .nav-link:hover::before,
     .navbar-light .navbar-nav .nav-link.active::before {

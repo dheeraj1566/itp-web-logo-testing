@@ -22,7 +22,6 @@
     z-index: 99;
 }
 
-
 /*** Spinner ***/
 #spinner {
     opacity: 0;
@@ -36,7 +35,6 @@
     visibility: visible;
     opacity: 1;
 }
-
 
 /*** Button ***/
 .btn {
@@ -90,7 +88,7 @@
     transition: .5s;
 }
 .logo-img {
-    width: 85px;
+    width: 145px;
 }
 
 
